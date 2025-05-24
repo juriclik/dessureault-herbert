@@ -1,5 +1,5 @@
 Balisage de schéma pour le site web dessureaultherbert.com
-Ce référentiel contient les données de balisage de schéma pour https://dessureaultherbert.com. Pour utiliser ces données, copiez-collez simplement le contenu du fichier « schema-markup.txt » sur la page contact de votre site web.
+Ce référentiel contient les données de balisage de schéma pour https://dessureaultherbert.com. Pour utiliser ces données, copiez-collez simplement le contenu du fichier « schemaorg.txt » dans le code source HTML de la page contact de votre site web.
 
 Vous pouvez tester les résultats avec l'outilde Google https://search.google.com/test/rich-results
 
