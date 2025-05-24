@@ -1,0 +1,115 @@
+ <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LegalService",
+        "name": "Dessureault Herbert Avocats",
+        "description": "Avocats possédant une vaste expérience en droit de la famille, droit successoral et fiducies. Nos associés ont travaillé pendant plus d’une décennie dans des grands cabinets avant d’ouvrir leur propre bureau afin de mieux vous servir. Nous représentons nos clients avec vigueur, rigueur et ténacité, tout en faisant preuve d’empathie. Nous offrons des solutions adaptées à chaque situation et des conseils précis et personnalisés.",
+        "telephone": "+1 514-360-9355",
+        "url": "https://dessureaultherbert.com",
+        "logo": "http://www.juriclik.lo/repertoire/avocats/dessureault-herbert/dessureault-herbert-avocats.jpg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4871 Park Ave",
+          "addressLocality": "Montreal",
+          "addressRegion": "Quebec",
+          "postalCode": "H2V 4E7",
+          "addressCountry": "CA"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "09:00",
+            "closes": "17:30"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "00:00"
+          }
+        ],
+        "potentialAction": {
+          "@type": "ReserveAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://calendly.com/d/cp4g-hk4-wx4?embed_domain=dessureaultherbert.com&embed_type=PopupText",
+            "inLanguage": "fr-CA",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.org/AndroidPlatform"
+            ]
+          },
+          "name": "Prendre RDV"
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Spécialisations",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Droit de la famille"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Droit successoral et fiducie"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Divorce et séparation"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Garde ou temps parental"
+              }
+            }
+          ]
+        },
+        "founder": [
+          {
+            "@type": "Person",
+            "name": "Me Louis Dessureault",
+            "award": "Best Lawyers 2025"
+          },
+          {
+            "@type": "Person",
+            "name": "Me Stéphanie Herbert",
+            "award": "Best Lawyers 2025"
+          }
+        ],
+        "sameAs": [
+          "https://www.linkedin.com/company/dessureault-herbert-avocats/"
+        ],
+        "slogan": "Pour vous. Par nous. Des conseils et solutions adaptés à votre réalité.",
+         "areaServed": {
+          "@type": "Place",
+          "name": "Greater Montreal"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.52047",
+          "longitude": "-73.59376"
+        }
+      }
+    </script>
